@@ -3,7 +3,9 @@
 This repository contains the reproducible research code for the project **“Protein Structure Prediction using Novel Machine Learning Techniques for 9-mers Dataset”**, developed as part of *AIT 736 – Applied Machine Learning (DL2)* at George Mason University.
 
 The project investigates protein fragment structure prediction using **9-mer sequences** derived from CullPDB, leveraging **multi-input deep learning architectures** that combine amino acid sequence information with torsion-angle features (φ, ψ). The primary model is an **LSTM-based neural network with dense layers and dropout regularization** to capture sequential and non-linear structural patterns.
-
+<p align="center">
+  <img src="images/ML-Diagram-proposal.png" width="900">
+</p>
 ---
 
 ## 📌 Project Objectives
