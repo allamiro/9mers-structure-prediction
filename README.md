@@ -6,7 +6,7 @@ The project investigates protein fragment structure prediction using **9-mer seq
 <p align="center">
   <img src="images/ML-Diagram-proposal.png" width="900">
 </p>
----
+
 
 ## 📌 Project Objectives
 - Load, preprocess, and analyze a standardized 9-mer protein fragment dataset
